@@ -1,0 +1,21 @@
+{
+  "name": "actions3",
+  "version": "1.0.0",
+  "description": "More GitHub Actions training",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Testing-All-The-Amazing-Tools/actions3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Testing-All-The-Amazing-Tools/actions3/issues"
+  },
+  "homepage": "https://github.com/Testing-All-The-Amazing-Tools/actions3#readme"
+}
