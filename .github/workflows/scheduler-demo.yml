@@ -2,8 +2,9 @@ name: Scheduler demo job
 
 on: 
   workflow_dispatch:
-  schedule:
-    - cron: '*/5 * * * *'
+# comment out to activate schedule
+#  schedule:
+#    - cron: '*/5 * * * *'
 
 jobs:
   scheduler-every-5-minute: 
