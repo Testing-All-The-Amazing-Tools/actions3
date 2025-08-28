@@ -4,7 +4,7 @@
   "description": "More GitHub Actions training",
   "main": "index.js",
   "scripts": {
-    "build": "tsc"
+    "build": "echo 'Build script run from package.json'"
   },
   "repository": {
     "type": "git",
